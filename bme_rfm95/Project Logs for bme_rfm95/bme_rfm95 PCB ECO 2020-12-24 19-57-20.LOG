@@ -1,0 +1,6 @@
+Added Component: Designator=R3(RESC1005X40X25ML10T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA2AEB471X"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR2_1 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Member To Class: ClassName=bme_rfm95 Member=Component R3 ERA2AEB471X
